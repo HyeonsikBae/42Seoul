@@ -6,31 +6,31 @@
 
 본 과제는 C언어의 각종 헤더에 있는 함수들을 직접 구현해 보는 과제이다.
 
-총 3가지의 Part로 나뉘어져 있으며, 목록은 아래와 같다. 24 + 10 + 9
+총 3가지의 Part로 나뉘어져 있으며, 목록은 아래와 같다.
 
 ## Part 1
 
 - [memset]
-- [bzero]
-- [memcpy]
+- [bzero](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/bzero.md)
+- [memcpy](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memcpy.md)
 - [memmove]
 - [memchr]
-- [memcmp]
-- [strlen]
+- [memcmp](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memcmp.md)
+- [strlen](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strlen.md)
 - [strlcpy]
 - [strlcat]
 - [strchr]
 - [strrchr]
 - [strnstr]
 - [strncmp]
-- [atoi]
+- [atoi](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/atoi.md)
 - [isalpha]
-- [iadigit]
+- [iadigit](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isidigit.md)
 - [iaslnum]
 - [isascii]
-- [isprint]
-- [toupper]
-- [tolower]
+- [isprint](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isprint.md)
+- [toupper](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/toupper.md)
+- [tolower](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/tolower.md)
 - [calloc]
 - [strdup]
 
@@ -39,22 +39,22 @@
 - [substr]
 - [strjoin]
 - [strtrim]
-- [split]
-- [itoa]
-- [strmapi]
+- [split](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/split.md)
+- [itoa](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/itoa.md)
+- [strmapi](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strmapi.md)
 - [putchar_fd]
-- [putstr_fd]
+- [putstr_fd](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/putstr_fd.md)
 - [putendl_fd]
 - [putnbr_fd]
 
 ## Part3
 
-- [lstnew]
+- [lstnew](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstnew.md)
 - [lstadd_front]
-- [lstsize]
-- [lstlast]
+- [lstsize](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstsize.md)
+- [lstlast](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstlast.md)
 - [lstadd_back]
 - [lstdelone]
 - [lstclear]
-- [lstiter]
+- [lstiter](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstiter.md)
 - [lstmap]
