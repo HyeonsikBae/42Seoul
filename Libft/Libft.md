@@ -10,14 +10,14 @@
 
 ## Part 1
 
-- [memset]
+- [memset](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memset.md)
 - [bzero](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/bzero.md)
 - [memcpy](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memcpy.md)
-- [memmove]
-- [memchr]
+- [memmove](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memmove.md)
+- [memchr](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memchr.md)
 - [memcmp](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memcmp.md)
 - [strlen](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strlen.md)
-- [strlcpy]
+- [strlcpy](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strlcpy.md)
 - [strlcat]
 - [strchr]
 - [strrchr]
