@@ -9,7 +9,7 @@
 - TCP의 특징
 
   - 3-way handsahking을 통한 연결, 4-way handshaking을 통한 연결 해제 - 양방향 통신
-  - Flor Control (흐름 제어)
+  - Flow Control (흐름 제어)
   - Congestion Control (혼잡 제어)
   - Error Detection (오류 감지)
   - 높은 신뢰성 보장
@@ -48,22 +48,15 @@
 
 - UDP는 데이터에 UDP Header를 추가한 Segment단위의 데이터를 전송한다.
 
-- 데이터 전송의 신뢰성보단 속도가 중요할 때 사용한다.
+- 데이터 전송의 신뢰성보단 속도가 중요할 때 사용한다. (ex : Streaming)
 
 - UDP의 특징
 
   - Connectionless
   - Error Detection
   - TCP에 비해 빠른 속도
-  - 
-
-- Error Detection 있지
-
-- 데이터 신뢰성 안중요할 때 써 .. 영상 스트리밍처럼~
-
-- TCP는 4계층에서 데이터 쪼개지만, UDP에선 직접 Application  단에서 쪼개야 함.
-
-- 1:1, 1:N, N:M 통신
+  - Error Detection (오류 감지)
+  - 1:1, 1:N, N:M 통신
 
 - UDP Header
 

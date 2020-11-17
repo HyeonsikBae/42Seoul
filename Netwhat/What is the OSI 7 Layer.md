@@ -46,7 +46,7 @@ OSI 7 Layer 모델은 거대한 Network Software의 구조를 설명하는 것�
 - 데이터를 목적지까지의 경로를 찾아 전송하는 계층
 - 데이터에 주소 정보가 포함된 패킷을 전송
 - inter-network 속에서 routing, forwarding을 통해 데이터를 전송한다.
-- 운영체제의 커널 냅부에 소프트웨어로 구현되어있다
+- 운영체제의 커널 내부에 소프트웨어로 구현되어있다
 
 ### Transport Layer
 
