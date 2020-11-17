@@ -6,7 +6,7 @@
 
 컨테이너라고 하는 가벼운 단위에서 어플리케이션을 실행하기 위한 플랫폼이다.
 
-기존의 느린 서비스 배포 프로세스를 단축시키기 위해 가상 머신이 등장했지만, 실제로 사용되는 기술은 Docker 컨테이너이다.
+기존의 느린 서비스 배포 프로세스를 단축시키기 위해 [가상 머신](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Virtual%20Machine.md)이 등장했지만, 실제로 사용되는 기술은 Docker [컨테이너](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Container.md)이다.
 
 컨테이너를 사용하여 어플리케이션을 보다 쉽게 생성, 배포 및 실행할 수 있도록 설계된 도구로써 DevOps(개발 + 운영)도구 체인의 일부이다.
 

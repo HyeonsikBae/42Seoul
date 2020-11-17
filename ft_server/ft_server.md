@@ -10,5 +10,5 @@ ft_server 진행 중.
 
 - 선행학습
   - [Docker](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Docker.md)
-  - [Virtual Machine]()
-  - [Container]()
+  - [Virtual Machine](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Virtual%20Machine.md)
+  - [Container](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Container.md)
