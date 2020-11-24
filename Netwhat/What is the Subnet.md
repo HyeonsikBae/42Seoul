@@ -8,9 +8,9 @@
 
 ### Subnet
 
-- __Subnet__이란 __하나의 네트워크가 분할되어 나눠진 작은 네트워크__이다.
-- 네트워크를 분할하는 작업을 __Subnetting__이라고 한다.
-- Subnetting은 __Subnet Mask__를 통해 수행할 수 있다.
+- **Subnet**이란 **하나의 네트워크가 분할되어 나눠진 작은 네트워크**이다.
+- 네트워크를 분할하는 작업을 **Subnetting**이라고 한다.
+- Subnetting은 **Subnet Mask**를 통해 수행할 수 있다.
 
 ### Netmask
 
