@@ -1,4 +1,4 @@
-## memchr
+## strlcpy
 
 - size만큼 src에서 dest로 복사하고, src의 크기를 반환하는 함수
 

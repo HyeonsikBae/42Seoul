@@ -18,21 +18,21 @@
 - [memcmp](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/memcmp.md)
 - [strlen](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strlen.md)
 - [strlcpy](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strlcpy.md)
-- [strlcat]
-- [strchr]
-- [strrchr]
-- [strnstr]
-- [strncmp]
+- [strlcat](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strlcat.md)
+- [strchr](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strchr.md)
+- [strrchr](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strrchr.md)
+- [strnstr](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strnstr.md)
+- [strncmp](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strncmp.md)
 - [atoi](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/atoi.md)
-- [isalpha]
+- [isalpha](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isalpha.md)
 - [iadigit](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isidigit.md)
-- [iaslnum]
-- [isascii]
+- [iaslnum](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isalnum.md)
+- [isascii](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isascii.md)
 - [isprint](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/isprint.md)
 - [toupper](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/toupper.md)
 - [tolower](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/tolower.md)
-- [calloc]
-- [strdup]
+- [calloc](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/calloc.md)
+- [strdup](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strdup.md)
 
 ## Part2
 
