@@ -36,16 +36,16 @@
 
 ## Part2
 
-- [substr]
-- [strjoin]
-- [strtrim]
+- [substr](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/substr.md)
+- [strjoin](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strjoin.md)
+- [strtrim](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strtrim.md)
 - [split](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/split.md)
 - [itoa](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/itoa.md)
 - [strmapi](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/strmapi.md)
-- [putchar_fd]
+- [putchar_fd](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/putchar_fd.md)
 - [putstr_fd](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/putstr_fd.md)
-- [putendl_fd]
-- [putnbr_fd]
+- [putendl_fd](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/putendl_fd.md)
+- [putnbr_fd](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/putnbr_fd.md)
 
 ## Part3
 
