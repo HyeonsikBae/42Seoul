@@ -4,10 +4,6 @@
 
 ---
 
-ft_server 진행 중.
-
-지속적인 업데이트 예정.
-
 - 선행학습
   - [Docker](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Docker.md)
   - [Virtual Machine](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/Virtual%20Machine.md)
