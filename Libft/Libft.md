@@ -50,11 +50,11 @@
 ## Part3
 
 - [lstnew](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstnew.md)
-- [lstadd_front]
+- [lstadd_front](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstadd_front.md)
 - [lstsize](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstsize.md)
 - [lstlast](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstlast.md)
-- [lstadd_back]
-- [lstdelone]
-- [lstclear]
+- [lstadd_back](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstadd_back.md)
+- [lstdelone](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstdelone.md)
+- [lstclear](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstclear.md)
 - [lstiter](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstiter.md)
-- [lstmap]
+- [lstmap](https://github.com/HyeonsikBae/42Seoul/blob/master/Libft/lstmap.md)
