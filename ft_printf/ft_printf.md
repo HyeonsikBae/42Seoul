@@ -10,5 +10,5 @@ ft_printf 과제는 C 언어의 stdio 헤더에 포함되어 있는 printf 함�
   - [printf](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_printf/printf.md)
   - [variable argument](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_printf/variable%20argument.md)
 - [Structure](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_printf/Structure.md)
-- Code
+- [Code](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_printf/Code.md)
 
