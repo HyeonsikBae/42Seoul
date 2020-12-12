@@ -14,4 +14,4 @@ __42 내부 규정에 의해 원본 소스 코드는 기재되어 있지 않습�
   - [netwhat](https://github.com/HyeonsikBae/42Seoul/blob/master/Netwhat/Netwhat.md)
 - Circle 2
   - [ft_server](https://github.com/HyeonsikBae/42Seoul/blob/master/ft_server/ft_server.md)
-  - [cub3d]
+  - [cub3d](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/cub3d.md)

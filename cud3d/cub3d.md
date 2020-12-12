@@ -5,4 +5,4 @@
 ---
 
 - 선행학습
-  - [MiniLibx]()
+  - [MiniLibx](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/MiniLibX.md)
