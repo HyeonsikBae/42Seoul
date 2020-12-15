@@ -19,3 +19,5 @@ MiniLibx 사용을 위해 아래와 같은 준비가 필요하다.
 
 - [Managing windows](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/MiniLibX-Managing%20windows.md)
 - [Drawing inside windows](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/MiniLibX-Drawing%20inside%20windows.md)
+- [Manipulating images](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/MiniLibX-Manipulating%20images.md)
+- [Handle events](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/MiniLibX-Handle%20events.md)
