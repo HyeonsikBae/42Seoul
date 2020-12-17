@@ -58,7 +58,7 @@ BitOrder는 위 ByteOrder를 봤다면 금방 이해가 될 것이다.
 
    16진수 0x12345678 을 스택에 저장하게 되면 아래와 같이 저장된다.
 
-   ![big_endian](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/big_endian_example.md)
+   ![big_endian](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/big_endian_example.png)
 
 2. 리틀 엔디언 (Little Endianness)
 
@@ -66,7 +66,7 @@ BitOrder는 위 ByteOrder를 봤다면 금방 이해가 될 것이다.
 
    16진수 0x12345678 을 스택에 저장하게 되면 아래와 같이 저장된다.
 
-   ![little_endian](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/little_endian_example.md)
+   ![little_endian](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/little_endian_example.png)
 
 3. 미들 엔디언 (Middle Endianness)
 
