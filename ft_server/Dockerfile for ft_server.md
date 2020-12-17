@@ -15,7 +15,7 @@ COPY srcs/* /tmp/init
 
 RUN apt-get update -y
 RUN apt install -y nginx php-fpm php-mysql php-mbstring mariadb-server 
-RUN tar -zxv /var/www/html/phpMyAdmin.tar.gz -C /var/www/html
+RUN tar -zxvf /var/www/html/phpMyAdmin.tar.gz -C /var/www/html
 && tar -zxvf /var/www/html/wordpress.tar.gz -C /var/www/html
 RUN cp /tmp/init/config.inc.php /var/www/html/phpMyAdmin/
 && cp /tmp/init/wp-config.php /var/www/html/wordpress/
