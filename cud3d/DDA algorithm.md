@@ -109,10 +109,10 @@ y = 1/3 x + 1
   
   while (i <= step)
   {
-  	if (abs(x_inc) == 1)
-  		printf("x : %f\ty : %f\n", (double)x_init, round((double)y_init));
+      if (abs(x_inc) == 1)
+          printf("x : %f\ty : %f\n", x_init, round(y_init));
       else
-          printf("x : %f\ty : %f\n", round((double)x_init), (double)y_init);
+          printf("x : %f\ty : %f\n", round(x_init), y_init);
       x_init += x_inc;
       y_init += y_inc;
       i++;
