@@ -10,5 +10,5 @@
   - [DDA algorithm](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/DDA%20algorithm.md)
   - [raycasting](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/raycasting.md)
   - [DFS](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/DFS.md)
-- [Structure]
+- [Structure](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/Structure.md)
 
