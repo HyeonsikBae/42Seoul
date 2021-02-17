@@ -15,3 +15,11 @@ cub3d 실행 순서에 따라 구현했던 기능들에 대해 자세히 알아�
 ### 1. [cub file parsing](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/structure_cub_file_parsing.md)
 
 ### 2. [map validation check](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/structure_map_validation_check.md)
+
+### 3. [control event](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/structure_event.md)
+
+### 4. [raycasting](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/structure_raycasting.md)
+
+### 5. [sprite](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/structure_sprite.md)
+
+### 6. [save to bmp](https://github.com/HyeonsikBae/42Seoul/blob/master/cud3d/structure_save_to_bmp.md)
